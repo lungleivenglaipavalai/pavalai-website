@@ -2,25 +2,25 @@
 
   
 
-    //background-size:auto;
+    background-size:auto;
 
-    //background-position: center;
+    background-position: center;
 
-    //background-repeat: no-repeat;
+    background-repeat: no-repeat;
 
-    //height: 60vh;
+    height: 60vh;
 
-    //display: flex;
-	//justify-content:center;
+    display: flex;
+	justify-content:center;
 
-    //align-items: center;
+    align-items: center;
 
 }
 
 
 .hero-content{
 
-    //color: black;
+    color: black;
 
     position: relative;
     z-index: 2;
