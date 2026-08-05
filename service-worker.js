@@ -1,4 +1,4 @@
-const CACHE_NAME = "pavalai-v3";
+const CACHE_NAME = "pavalai-v4";
 
 const FILES = [
   "./",
